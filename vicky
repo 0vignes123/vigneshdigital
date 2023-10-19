@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<h2>HTML imaages</h2>
+<p>HTML images are difined with the img
+tag:</p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROIf87XlSpLVCr28cymsSj8bM2KSFGdX2_5kgJirPC&s"
+alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROIf87XlSpLVCr28cymsSj8bM2KSFGdX2_5kgJirPC&s" width="105"
+height="143">
+
+</body>
+</html>
